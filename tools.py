@@ -136,4 +136,8 @@ tools = [
     get_highest_revenue_product
 ]
 
+<<<<<<< HEAD
 # print(get_best_selling_product.invoke({})) 
+=======
+# print(get_best_selling_product.invoke({}))
+>>>>>>> 7148d45 (initial commit)
